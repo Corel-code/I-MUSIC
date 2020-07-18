@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding = utf-8?>
+<catalog>
+
+<SUBJECT>
+	<ins category = "no0">
+	<INS>YamClas</INS>
+	<PRICE>85000</PRICE>
+	 </ins>
+	 <ins category = "no1">
+	<INS> Kingsman </INS>
+	<PRICE> 100000 </PRICE>
+
+	<ins category = "no2"> 
+	<INS> wood </INS>
+	<PRICE> 75000 </PRICE>
+
+	<ins category = "no3"> 
+	<INS> schel </INS>
+	<PRICE> 175000 </PRICE> 
+
+	<ins category = "no4">
+	<INS> redsch </INS>
+	<PRICE> 95000 </PRICE>
+
+	<ins category = "no5"> 
+	<INS> eag </INS>
+	<PRICE> 200000 </PRICE>
+
+	<ins category = "no6"> 
+	<INS> bird </INS>
+	<PRICE> 300000 </PRICE>
+
+	<ins category = "no7">
+	<INS> gold </INS>
+	<PRICE> 200000 </PRICE> 
+
+	<ins category = "no8">
+	<INS> alet </INS>
+	<PRICE> 300000 </PRICE>
+
+	<ins category = "no9">
+	<INS> Jbl </INS>
+	<PRICE> 30000 </PRICE>
+
+	<ins category = "no10">
+	<INS> alto </INS>
+	<PRICE> 18000 </PRICE> 
+
+	<ins category = "no11">
+	<INS> malk </INS>
+	<PRICE> 20000 </PRICE> 
+
+	<ins category = "no12"> 
+	<INS> altopro </INS>
+	<PRICE> 30000 </PRICE>
+
+	<ins category = "no13">
+	<INS> piano </INS>
+	<PRICE> 85000 </PRICE>    	
+</SUBJECT>
+</catalog>
